@@ -1,2 +1,5 @@
-# Separador-de-saidas
-lista 
+Resposta= """Jader Duarte - lista  - questão 
+Saida:
+
+"""
+print(Resposta)
