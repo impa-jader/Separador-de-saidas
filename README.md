@@ -1,0 +1,2 @@
+# Separador-de-saidas
+lista 
